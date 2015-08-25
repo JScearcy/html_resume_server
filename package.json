@@ -13,9 +13,9 @@
   "author": "JakeS",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JScearcy/prime_prestudy_03_resume/issues"
+    "url": "https://github.com/JScearcy/html_resume_server"
   },
-  "homepage": "https://github.com/JScearcy/prime_prestudy_03_resume#readme",
+  "homepage": "https://github.com/JScearcy/html_resume_server#readme",
   "dependencies": {
     "bootstrap": "^3.3.5",
     "express": "^4.13.3"
