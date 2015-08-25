@@ -1,7 +1,7 @@
 var main = function() {
 	$('article').hide();
 	$('.second').hide();
-	$('.first').show();
+//	$('.first').show();
 	$('.first').click(function() {
 		$(this).hide();
 		$('.second').fadeIn(500);

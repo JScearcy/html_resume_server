@@ -1,0 +1,23 @@
+{
+  "name": "resume_server",
+  "version": "1.0.0",
+  "description": "Serve my resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JScearcy/prime_prestudy_03_resume.git"
+  },
+  "author": "JakeS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JScearcy/prime_prestudy_03_resume/issues"
+  },
+  "homepage": "https://github.com/JScearcy/prime_prestudy_03_resume#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "express": "^4.13.3"
+  }
+}
